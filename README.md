@@ -36,7 +36,7 @@ The Login Form includes the following:
 
 ## 📸 Preview
 
-![Login Form Preview](https://loginform0405.netlify.app/)
+[Login Form Preview](https://loginform0405.netlify.app/)
 
 ---
 
